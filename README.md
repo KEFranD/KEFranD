@@ -1,7 +1,7 @@
 <h1 align="center">Hi there!👋 I'm Francesca</h1>
 <h3 align="center">A passionate junior frontend developer</h3>
 
-- 🌱 I’m currently learning **JavaScript and React**
+- 🌱 I’m currently learning **React**
 
 - 👨‍💻 All of my projects are available at [https://troopl.com/kefdriver](https://troopl.com/kefdriver)
 
