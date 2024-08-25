@@ -1,3 +1,5 @@
+![github](https://github.com/user-attachments/assets/7ce1e7d3-0eb1-492f-9348-88e3e6c5a3d5)
+
 <h1 align="center">Hi there!👋 I'm Francesca</h1>
 
 - 👨‍💻 All of my projects are available at [https://troopl.com/kefdriver](https://troopl.com/kefdriver)
