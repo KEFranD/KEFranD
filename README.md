@@ -1,5 +1,4 @@
-![github-2](https://github.com/user-attachments/assets/6338a175-be58-4df3-8a05-8afce6c9fd35)
-
+![github-2](https://github.com/user-attachments/assets/266bbf54-25e7-47b9-bc0c-e17a71a547e6)
 
 <h1 align="center">Hi there!👋 I'm Francesca</h1>
 
