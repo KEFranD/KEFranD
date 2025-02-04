@@ -11,7 +11,5 @@ I'm a Fullstack Developer with a passion for building dynamic, user-friendly app
 
 # 💻 Tech Stack:
 [![My Skills](https://skillicons.dev/icons?i=clojure,ts,nextjs,react,gitlab,c,firebase,vercel,postman,nodejs,npm,obsidian)](https://skillicons.dev)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=KEFranD&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
